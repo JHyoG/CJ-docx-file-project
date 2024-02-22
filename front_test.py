@@ -3,7 +3,7 @@ import os
 import pdb # #pdb.set_trace()
 import backend_test
 
-# 파일 1개씩 넣었다고 가정하고 코드 작성
+# 파일 1개씩 넣었다고 가정하고 코드 작성!
 
 def upload_file(file1): # file1 -> 파일객체 , file1.name -> 파일 이름 추출
     file_paths = file1.name 
