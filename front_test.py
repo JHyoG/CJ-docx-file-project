@@ -40,7 +40,6 @@ with gr.Blocks() as demo:
 
 
 demo.launch(share=True)
-# pdb.set_trace()
 # https://www.gradio.app/guides/blocks-and-event-listeners -> 이거보고 수정하기
 
 
